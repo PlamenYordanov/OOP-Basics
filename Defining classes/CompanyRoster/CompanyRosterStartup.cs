@@ -27,9 +27,8 @@ public class CompanyRosterStartup
                 {
                     employee.Age = input[j];
                 }
+                employees.Add(employee);
             }
-            employees.Add(employee);
-            
         }
         if (!employees.Any())
         {
