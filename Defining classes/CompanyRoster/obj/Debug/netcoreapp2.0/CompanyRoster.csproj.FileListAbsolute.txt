@@ -8,3 +8,4 @@ C:\Users\Plamen Yordanov\source\OOP Basics\Defining classes\CompanyRoster\bin\De
 C:\Users\Plamen Yordanov\source\OOP Basics\Defining classes\CompanyRoster\bin\Debug\netcoreapp2.0\CompanyRoster.pdb
 C:\Users\Plamen Yordanov\source\OOP Basics\Defining classes\CompanyRoster\obj\Debug\netcoreapp2.0\CompanyRoster.dll
 C:\Users\Plamen Yordanov\source\OOP Basics\Defining classes\CompanyRoster\obj\Debug\netcoreapp2.0\CompanyRoster.pdb
+C:\Users\Plamen Yordanov\source\OOP Basics\Defining classes\CompanyRoster\obj\Debug\netcoreapp2.0\CompanyRoster.csprojResolveAssemblyReference.cache

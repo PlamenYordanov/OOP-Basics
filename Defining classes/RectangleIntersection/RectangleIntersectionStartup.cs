@@ -9,10 +9,7 @@ public class RectangleIntersectionStartup
         var nAndM = Console.ReadLine().Split();
         int n = int.Parse(nAndM[0]);
         int m = int.Parse(nAndM[1]);
-        if (n % 2 !=0)
-        {
-            return;
-        }
+        
         var rectangles = new List<Rectangle>();
         for (int i = 0; i < n; i++)
         {
