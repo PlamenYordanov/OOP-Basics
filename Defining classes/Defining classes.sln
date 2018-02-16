@@ -13,9 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RawData", "RawData\RawData.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RectangleIntersection", "RectangleIntersection\RectangleIntersection.csproj", "{56311477-7E03-4113-9A70-80F3B56CC7D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarSalesman", "CarSalesman\CarSalesman.csproj", "{A7752F20-1A66-442F-9AF8-81DB71A2640D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarSalesman", "CarSalesman\CarSalesman.csproj", "{A7752F20-1A66-442F-9AF8-81DB71A2640D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonTrainer", "PokemonTrainer\PokemonTrainer.csproj", "{0C8FF40C-4588-48FE-9011-178D47A765C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonTrainer", "PokemonTrainer\PokemonTrainer.csproj", "{0C8FF40C-4588-48FE-9011-178D47A765C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Google", "Google\Google.csproj", "{A71C411A-649C-4C21-9666-92918113E73A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingTool", "DrawingTool\DrawingTool.csproj", "{43B54263-F202-45E3-B6FC-5CA19F8DA298}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{0C8FF40C-4588-48FE-9011-178D47A765C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C8FF40C-4588-48FE-9011-178D47A765C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C8FF40C-4588-48FE-9011-178D47A765C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A71C411A-649C-4C21-9666-92918113E73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71C411A-649C-4C21-9666-92918113E73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71C411A-649C-4C21-9666-92918113E73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71C411A-649C-4C21-9666-92918113E73A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B54263-F202-45E3-B6FC-5CA19F8DA298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B54263-F202-45E3-B6FC-5CA19F8DA298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B54263-F202-45E3-B6FC-5CA19F8DA298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B54263-F202-45E3-B6FC-5CA19F8DA298}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
