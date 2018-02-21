@@ -14,7 +14,7 @@
     }
     public override string ToString()
     {
-        return  $" {typeof(Cat)} {this.Name} ";
+        return  $" {this.Name} ";
     }
 }
 

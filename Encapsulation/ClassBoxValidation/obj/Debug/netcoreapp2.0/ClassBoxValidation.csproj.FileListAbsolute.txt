@@ -1,0 +1,11 @@
+C:\Users\Plamen Yordanov\source\OOP Basics\Encapsulation\ClassBoxValidation\bin\Debug\netcoreapp2.0\ClassBoxValidation.deps.json
+C:\Users\Plamen Yordanov\source\OOP Basics\Encapsulation\ClassBoxValidation\bin\Debug\netcoreapp2.0\ClassBoxValidation.runtimeconfig.json
+C:\Users\Plamen Yordanov\source\OOP Basics\Encapsulation\ClassBoxValidation\bin\Debug\netcoreapp2.0\ClassBoxValidation.runtimeconfig.dev.json
+C:\Users\Plamen Yordanov\source\OOP Basics\Encapsulation\ClassBoxValidation\bin\Debug\netcoreapp2.0\ClassBoxValidation.dll
+C:\Users\Plamen Yordanov\source\OOP Basics\Encapsulation\ClassBoxValidation\bin\Debug\netcoreapp2.0\ClassBoxValidation.pdb
+C:\Users\Plamen Yordanov\source\OOP Basics\Encapsulation\ClassBoxValidation\obj\Debug\netcoreapp2.0\ClassBoxValidation.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Basics\Encapsulation\ClassBoxValidation\obj\Debug\netcoreapp2.0\ClassBoxValidation.AssemblyInfoInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Basics\Encapsulation\ClassBoxValidation\obj\Debug\netcoreapp2.0\ClassBoxValidation.AssemblyInfo.cs
+C:\Users\Plamen Yordanov\source\OOP Basics\Encapsulation\ClassBoxValidation\obj\Debug\netcoreapp2.0\ClassBoxValidation.dll
+C:\Users\Plamen Yordanov\source\OOP Basics\Encapsulation\ClassBoxValidation\obj\Debug\netcoreapp2.0\ClassBoxValidation.pdb
+C:\Users\Plamen Yordanov\source\OOP Basics\Encapsulation\ClassBoxValidation\obj\Debug\netcoreapp2.0\ClassBoxValidation.csprojResolveAssemblyReference.cache
