@@ -1,0 +1,11 @@
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\MordorsCruelPlan\bin\Debug\netcoreapp2.0\MordorsCruelPlan.deps.json
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\MordorsCruelPlan\bin\Debug\netcoreapp2.0\MordorsCruelPlan.runtimeconfig.json
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\MordorsCruelPlan\bin\Debug\netcoreapp2.0\MordorsCruelPlan.runtimeconfig.dev.json
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\MordorsCruelPlan\bin\Debug\netcoreapp2.0\MordorsCruelPlan.dll
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\MordorsCruelPlan\bin\Debug\netcoreapp2.0\MordorsCruelPlan.pdb
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\MordorsCruelPlan\obj\Debug\netcoreapp2.0\MordorsCruelPlan.csprojResolveAssemblyReference.cache
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\MordorsCruelPlan\obj\Debug\netcoreapp2.0\MordorsCruelPlan.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\MordorsCruelPlan\obj\Debug\netcoreapp2.0\MordorsCruelPlan.AssemblyInfoInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\MordorsCruelPlan\obj\Debug\netcoreapp2.0\MordorsCruelPlan.AssemblyInfo.cs
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\MordorsCruelPlan\obj\Debug\netcoreapp2.0\MordorsCruelPlan.dll
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\MordorsCruelPlan\obj\Debug\netcoreapp2.0\MordorsCruelPlan.pdb

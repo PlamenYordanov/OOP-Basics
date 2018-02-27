@@ -1,0 +1,11 @@
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\PersonExc\bin\Debug\netcoreapp2.0\PersonExc.deps.json
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\PersonExc\bin\Debug\netcoreapp2.0\PersonExc.runtimeconfig.json
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\PersonExc\bin\Debug\netcoreapp2.0\PersonExc.runtimeconfig.dev.json
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\PersonExc\bin\Debug\netcoreapp2.0\PersonExc.dll
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\PersonExc\bin\Debug\netcoreapp2.0\PersonExc.pdb
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\PersonExc\obj\Debug\netcoreapp2.0\PersonExc.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\PersonExc\obj\Debug\netcoreapp2.0\PersonExc.AssemblyInfoInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\PersonExc\obj\Debug\netcoreapp2.0\PersonExc.AssemblyInfo.cs
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\PersonExc\obj\Debug\netcoreapp2.0\PersonExc.dll
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\PersonExc\obj\Debug\netcoreapp2.0\PersonExc.pdb
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\PersonExc\obj\Debug\netcoreapp2.0\PersonExc.csprojResolveAssemblyReference.cache

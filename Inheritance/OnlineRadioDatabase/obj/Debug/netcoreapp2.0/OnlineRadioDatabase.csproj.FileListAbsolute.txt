@@ -1,0 +1,11 @@
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\OnlineRadioDatabase\bin\Debug\netcoreapp2.0\OnlineRadioDatabase.deps.json
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\OnlineRadioDatabase\bin\Debug\netcoreapp2.0\OnlineRadioDatabase.runtimeconfig.json
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\OnlineRadioDatabase\bin\Debug\netcoreapp2.0\OnlineRadioDatabase.runtimeconfig.dev.json
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\OnlineRadioDatabase\bin\Debug\netcoreapp2.0\OnlineRadioDatabase.dll
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\OnlineRadioDatabase\bin\Debug\netcoreapp2.0\OnlineRadioDatabase.pdb
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\OnlineRadioDatabase\obj\Debug\netcoreapp2.0\OnlineRadioDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\OnlineRadioDatabase\obj\Debug\netcoreapp2.0\OnlineRadioDatabase.AssemblyInfoInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\OnlineRadioDatabase\obj\Debug\netcoreapp2.0\OnlineRadioDatabase.AssemblyInfo.cs
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\OnlineRadioDatabase\obj\Debug\netcoreapp2.0\OnlineRadioDatabase.dll
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\OnlineRadioDatabase\obj\Debug\netcoreapp2.0\OnlineRadioDatabase.pdb
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\OnlineRadioDatabase\obj\Debug\netcoreapp2.0\OnlineRadioDatabase.csprojResolveAssemblyReference.cache

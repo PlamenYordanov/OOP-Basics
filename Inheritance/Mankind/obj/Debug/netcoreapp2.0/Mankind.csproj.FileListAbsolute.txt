@@ -1,0 +1,11 @@
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\Mankind\bin\Debug\netcoreapp2.0\Mankind.deps.json
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\Mankind\bin\Debug\netcoreapp2.0\Mankind.runtimeconfig.json
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\Mankind\bin\Debug\netcoreapp2.0\Mankind.runtimeconfig.dev.json
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\Mankind\bin\Debug\netcoreapp2.0\Mankind.dll
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\Mankind\bin\Debug\netcoreapp2.0\Mankind.pdb
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\Mankind\obj\Debug\netcoreapp2.0\Mankind.csprojResolveAssemblyReference.cache
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\Mankind\obj\Debug\netcoreapp2.0\Mankind.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\Mankind\obj\Debug\netcoreapp2.0\Mankind.AssemblyInfoInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\Mankind\obj\Debug\netcoreapp2.0\Mankind.AssemblyInfo.cs
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\Mankind\obj\Debug\netcoreapp2.0\Mankind.dll
+C:\Users\Plamen Yordanov\source\OOP Basics\Inheritance\Mankind\obj\Debug\netcoreapp2.0\Mankind.pdb
