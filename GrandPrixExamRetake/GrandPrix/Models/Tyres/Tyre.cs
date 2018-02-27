@@ -10,27 +10,20 @@ public abstract class Tyre
     {
         Hardness = hardness;
         Degradation = 100;
-        
     }
     public string Name
     {
-        get { return name; }
-        protected set
-        {
-            name = value;
-        }
+        get => name;
+        protected set => name = value;
     }
     public double Hardness
     {
-        get { return hardness; }
-        protected set
-        {
-            hardness = value;
-        }
+        get => hardness;
+        protected set => hardness = value;
     }
     public virtual double Degradation
     {
-        get { return degradation; }
+        get => degradation;
         protected set
         {
             if (value < 0)

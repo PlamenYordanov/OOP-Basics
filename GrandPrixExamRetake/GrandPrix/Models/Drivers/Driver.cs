@@ -14,37 +14,25 @@ public abstract class Driver
     }
     public string Name
     {
-        get { return name; }
-        protected set
-        {
-            name = value;
-        }
+        get => name;
+        protected set => name = value;
     }
     public double TotalTime
     {
-        get { return totalTime; }
-        protected set
-        {
-            totalTime = value;
-        }
+        get =>totalTime;
+        protected set => totalTime = value;
     }
     public double FuelConsumptionPerKm
     {
-        get { return fuelConsumptionPerKm; }
-        protected set
-        {
-            fuelConsumptionPerKm = value;
-        }
+        get => fuelConsumptionPerKm;
+        protected set => fuelConsumptionPerKm = value;
     }
     public virtual double Speed => ((Car.Hp + Car.Tyre.Degradation) / car.FuelAmount);
     
     public Car Car
     {
-        get { return car; }
-        protected set
-        {
-            car = value;
-        }
+        get => car;
+        protected set => car = value;
     }
 }
 

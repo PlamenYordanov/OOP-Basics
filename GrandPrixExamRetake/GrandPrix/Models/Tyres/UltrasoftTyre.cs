@@ -4,20 +4,21 @@ public class UltrasoftTyre : Tyre
 {
     private const string ConstName = "Ultrasoft";
     private double grip;
-    private double degradation;
 
+    public UltrasoftTyre(double hardness, double grip)
+        : base(hardness)
+    {
+        Grip = grip;
+        Name = ConstName;
+    }
     public double Grip
     {
-        get { return grip; }
-        protected set
-        {
-
-            grip = value;
-        }
+        get => grip;
+        protected set => grip = value;
     }
     public override double Degradation
     {
-        get => this.Degradation;
+        get => base.Degradation;
 
         protected set
         {
@@ -25,19 +26,12 @@ public class UltrasoftTyre : Tyre
             {
                 throw new ArgumentException("Blown Tyre");
             }
-            this.degradation = value;
+            base.Degradation = value;
         }
-    }
-    public UltrasoftTyre(double hardness, double grip)
-        : base(hardness)
-    {
-        Grip = grip;
-        Name = "Ultrasoft";
     }
     public override void Degrade()
     {
         Degradation -= Hardness + Grip;
-
     }
 }
 
