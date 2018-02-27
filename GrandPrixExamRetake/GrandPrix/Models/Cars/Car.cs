@@ -7,11 +7,17 @@ public class Car
     private double fuelAmount;
     private Tyre tyre;
 
+    public Car(int hp, double fuelAmount, Tyre tyre)
+    {
+        Hp = hp;
+        FuelAmount = fuelAmount;
+        Tyre = tyre;
+    }
     public int Hp { get; }
 
     public double FuelAmount
     {
-        get { return fuelAmount; }
+        get => fuelAmount;
         private set
         {
             fuelAmount = Math.Min(value, TankCapacity);
@@ -24,14 +30,8 @@ public class Car
     }
     public Tyre Tyre
     {
-        get { return tyre; }
-        private set { tyre = value; }
-    }
-    public Car(int hp, double fuelAmount, Tyre tyre)
-    {
-        Hp = hp;
-        FuelAmount = fuelAmount;
-        Tyre = tyre;
+        get => tyre;
+        private set => tyre = value; 
     }
 }
 
