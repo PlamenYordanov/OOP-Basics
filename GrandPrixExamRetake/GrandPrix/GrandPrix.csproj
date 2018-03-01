@@ -42,10 +42,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BusinessLogic\RaceTower.cs" />
+    <Compile Include="Weather.cs" />
+    <Compile Include="Exceptions\BlownTyreException.cs" />
+    <Compile Include="Exceptions\OutOfFuelException.cs" />
     <Compile Include="Models\Cars\Car.cs" />
     <Compile Include="Models\Drivers\AggressiveDriver.cs" />
     <Compile Include="Models\Drivers\Driver.cs" />
     <Compile Include="Models\Drivers\EnduranceDriver.cs" />
+    <Compile Include="Models\Factories\DriverFactory.cs" />
+    <Compile Include="Models\Factories\TyreFactory.cs" />
     <Compile Include="Models\Tyres\HardTyre.cs" />
     <Compile Include="Models\Tyres\Tyre.cs" />
     <Compile Include="Models\Tyres\UltrasoftTyre.cs" />

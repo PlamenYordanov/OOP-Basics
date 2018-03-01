@@ -28,7 +28,8 @@ public abstract class Tyre
         {
             if (value < 0)
             {
-                throw new ArgumentException("Blown Tyre");
+                degradation = -1;
+                throw new BlownTyreException();
             }
             degradation = value;
         }

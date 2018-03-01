@@ -18,20 +18,21 @@ public class Car
     public double FuelAmount
     {
         get => fuelAmount;
-        private set
+        internal set
         {
             fuelAmount = Math.Min(value, TankCapacity);
 
             if (fuelAmount < 0)
             {
-                throw new ArgumentException("Out of fuel");
+                fuelAmount = -1;
+                throw new OutOfFuelException();
             }
         }
     }
     public Tyre Tyre
     {
         get => tyre;
-        private set => tyre = value; 
+        internal set => tyre = value; 
     }
 }
 
