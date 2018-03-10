@@ -1,0 +1,11 @@
+C:\Users\Plamen Yordanov\source\OOP Basics\PawIncExam\PawInc\bin\Debug\netcoreapp2.0\PawInc.deps.json
+C:\Users\Plamen Yordanov\source\OOP Basics\PawIncExam\PawInc\bin\Debug\netcoreapp2.0\PawInc.runtimeconfig.json
+C:\Users\Plamen Yordanov\source\OOP Basics\PawIncExam\PawInc\bin\Debug\netcoreapp2.0\PawInc.runtimeconfig.dev.json
+C:\Users\Plamen Yordanov\source\OOP Basics\PawIncExam\PawInc\bin\Debug\netcoreapp2.0\PawInc.dll
+C:\Users\Plamen Yordanov\source\OOP Basics\PawIncExam\PawInc\bin\Debug\netcoreapp2.0\PawInc.pdb
+C:\Users\Plamen Yordanov\source\OOP Basics\PawIncExam\PawInc\obj\Debug\netcoreapp2.0\PawInc.csproj.CoreCompileInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Basics\PawIncExam\PawInc\obj\Debug\netcoreapp2.0\PawInc.AssemblyInfoInputs.cache
+C:\Users\Plamen Yordanov\source\OOP Basics\PawIncExam\PawInc\obj\Debug\netcoreapp2.0\PawInc.AssemblyInfo.cs
+C:\Users\Plamen Yordanov\source\OOP Basics\PawIncExam\PawInc\obj\Debug\netcoreapp2.0\PawInc.dll
+C:\Users\Plamen Yordanov\source\OOP Basics\PawIncExam\PawInc\obj\Debug\netcoreapp2.0\PawInc.pdb
+C:\Users\Plamen Yordanov\source\OOP Basics\PawIncExam\PawInc\obj\Debug\netcoreapp2.0\PawInc.csprojResolveAssemblyReference.cache
