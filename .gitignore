@@ -13,3 +13,6 @@ GrandPrixExamRetake/.vs/GrandPrixExamRetake/v15/Server/sqlite3/storage.ide-wal
 *.ide
 *.zip
 *.zip
+PawIncExam/.vs/PawIncExam/v15/.suo
+*.lock
+*.ide-wal
