@@ -8,7 +8,7 @@ public abstract class Driver
     private double fuelConsumptionPerKm;
     
 
-    public Driver(string name, Car car)
+    protected Driver(string name, Car car)
     {
         Name = name;
         Car = car;

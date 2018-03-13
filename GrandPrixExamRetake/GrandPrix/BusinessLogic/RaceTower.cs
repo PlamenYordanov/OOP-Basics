@@ -8,16 +8,18 @@ public class RaceTower
     private List<Driver> drivers = new List<Driver>();
     private List<Driver> removedDrivers = new List<Driver>();
     private Weather weather = Weather.Sunny;
-    private int numberOfLaps;
-    private int trackLength;
     private int completedLaps = 0;
+
+    public int TrackLength { get; private set; }
+
+    public int LapsNumber { get; private set; }
 
     public int CompletedLaps { get => completedLaps; }
 
     public void SetTrackInfo(int lapsNumber, int trackLength)
     {
-        this.numberOfLaps = lapsNumber;
-        this.trackLength = trackLength;
+        this.LapsNumber = lapsNumber;
+        this.TrackLength = trackLength;
     }
     public void RegisterDriver(List<string> commandArgs)
     {
@@ -59,19 +61,19 @@ public class RaceTower
         {
             var lapsToComplete = int.Parse(commandArgs[0]);
 
-            if (lapsToComplete + completedLaps > numberOfLaps)
+            if (lapsToComplete + completedLaps > LapsNumber)
             {
                 throw new ArgumentException($"There is no time! On lap {completedLaps}.");
             }
 
             for (int lap = 0; lap < lapsToComplete; lap++)
             {
-                UpdateDriverTimes(trackLength);
+                UpdateDriverTimes(TrackLength);
                 foreach (var driver in drivers)
                 {
                     try
                     {
-                        driver.ReduceFuelAmount(trackLength);
+                        driver.ReduceFuelAmount(TrackLength);
                         driver.Car.Tyre.Degrade();
                     }
                     catch (Exception e)
@@ -105,7 +107,7 @@ public class RaceTower
     {
 
         var sb = new StringBuilder();
-        sb.AppendLine($"Lap {completedLaps}/{numberOfLaps}");
+        sb.AppendLine($"Lap {completedLaps}/{LapsNumber}");
         int position = 1;
         foreach (var driver in drivers.OrderBy(x => x.TotalTime))
         {
@@ -119,8 +121,6 @@ public class RaceTower
             position++;
         }
         return sb.ToString().TrimEnd();
-
-
     }
 
     public void ChangeWeather(List<string> commandArgs)
@@ -129,7 +129,7 @@ public class RaceTower
         weather = newWeather;
     }
 
-    public Driver GetWinner()
+    internal Driver GetWinner()
     {
         var winner = drivers.OrderBy(x => x.TotalTime).First();
         return winner;
@@ -137,7 +137,9 @@ public class RaceTower
 
     private void Overtake(List<Driver> drivers)
     {
-        var tempDrivers = drivers.OrderByDescending(x => x.TotalTime).ToList();
+        var tempDrivers = drivers
+            .OrderByDescending(x => x.TotalTime)
+            .ToList();
 
         for (int i = 0; i < drivers.Count - 1; i++)
         {
@@ -156,7 +158,7 @@ public class RaceTower
             }
             else if (trailDriver.FuelConsumptionPerKm == 1.5
                 && trailDriver.OvertakeInterval() == 3
-                 || weather == Weather.Rainy)
+                 && weather == Weather.Rainy)
             {
                 trailDriver.CrashReason = "Crashed";
             }

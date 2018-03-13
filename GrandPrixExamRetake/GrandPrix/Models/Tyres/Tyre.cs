@@ -6,7 +6,7 @@ public abstract class Tyre
     private double hardness;
     private double degradation;
 
-    public Tyre(double hardness)
+    protected Tyre(double hardness)
     {
         Hardness = hardness;
         Degradation = 100;
@@ -29,7 +29,7 @@ public abstract class Tyre
             if (value < 0)
             {
                 degradation = -1;
-                throw new BlownTyreException();
+                throw new ArgumentException("Blown Tyre");
             }
             degradation = value;
         }

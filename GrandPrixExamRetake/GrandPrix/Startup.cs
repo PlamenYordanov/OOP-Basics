@@ -34,6 +34,9 @@ public class Startup
                 case "Box":
                     raceTower.DriverBoxes(args);
                     break;
+                case "ChangeWeather":
+                    raceTower.ChangeWeather(args);
+                    break;
                 default:
                     break;
             }
