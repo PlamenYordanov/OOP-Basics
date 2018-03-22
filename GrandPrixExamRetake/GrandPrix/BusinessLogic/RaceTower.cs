@@ -18,9 +18,10 @@ public class RaceTower
 
     public void SetTrackInfo(int lapsNumber, int trackLength)
     {
-        this.LapsNumber = lapsNumber;
-        this.TrackLength = trackLength;
+        LapsNumber = lapsNumber;
+        TrackLength = trackLength;
     }
+
     public void RegisterDriver(List<string> commandArgs)
     {
         try
@@ -82,6 +83,7 @@ public class RaceTower
                         removedDrivers.Add(driver);
                     }
                 }
+
                 Overtake(drivers);
                 removedDrivers.AddRange(drivers.Where(x => x.CrashReason == "Crashed"));
                 drivers.RemoveAll(d => removedDrivers.Contains(d));
